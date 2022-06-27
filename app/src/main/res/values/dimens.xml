@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ui_toolbar_height">52dp</dimen>
+    <dimen name="ui_icon_medium">24dp</dimen>
+    <dimen name="ui_margin">16dp</dimen>
+    <dimen name="radius_large">16dp</dimen>
+    <dimen name="font_header">16sp</dimen>
+    <dimen name="font_sub">12sp</dimen>
+</resources>

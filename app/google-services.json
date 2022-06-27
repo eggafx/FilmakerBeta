@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796450277380",
+    "firebase_url": "https://filmaker-beta-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "filmaker-beta",
+    "storage_bucket": "filmaker-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796450277380:android:ba192054bef22356390d51",
+        "android_client_info": {
+          "package_name": "id.eggafx.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796450277380-peidkfs2cnn06b285an74ctunjui7q31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0AxAmg-tM6nI1yX74i4hPeqSC-IyqLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796450277380-peidkfs2cnn06b285an74ctunjui7q31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
